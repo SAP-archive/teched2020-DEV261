@@ -1,4 +1,4 @@
-# Session ID - Session Title
+# DEV261 - Build Cloud-Native Extensions for SAP Solutions Based on Kubernetes
 
 ## Description
 
