@@ -6,36 +6,34 @@ This repository contains the material for the SAP TechEd 2020 session called DEV
 
 ## Overview
 
-This session introduces attendees to...
+This session introduces attendees to using the "SAP Cloud Platfor, Kyma runtime" which is the cloud-native runtime part of SAP Cloud Platform. It makes it easy for developers to get started deploying highly scalable workloads containerized in Docker by providing a set of tools within Kyma runtime:
+* **Built-in Service Mesh:** Service-to-service communication and proxying 
+* **Built-in Serverless engine:** Build lightweight use cases with serverless functions
+* **Event Hub:** React to applications’ business events
+* **API Gateway:** Expose securely APIs of built apps
+* **Service Catalog:** Easy instantiation and consumption of services made available to the runtime
 
 ## Requirements
 
-The requirements to follow the exercises in this repository are...
+The requirements to follow the exercises in this repository are:
+- [ ] Have a Kyma runtime deployed in your SAP Cloud Platform account ([trial](http://a.com) or CPEA-based [account](https://blogs.sap.com/2020/05/13/sap-cloud-platform-extension-factory-kyma-runtime-how-to-get-started/)). **This will take 1-2 hours to complete!**
+- [ ] Have `kubectl`installed on your local machine following [this tutorial](http://a.com)
+
+To make full use of this hands-on session, the following tools shoud be ready as well:
+- [ ] [Docker](https://www.docker.com/) installed with a valid public account
+- [ ] [GIT](https://git-scm.com/downloads) installed
+- [ ] 
+
+**Questions**
+- [ ] Can we provide images to the Docker et al if people don't have Docker installed?
+- [ ] Should we rather go via [this sample](https://github.com/SAP-samples/kyma-runtime-extension-samples/blob/master/sample-event-trigger-java/README.md) instead of the tutorials as they are more complex than suitable for the 90 minutes?
 
 ## Exercises
 
-Provide the exercise content here directly in README.md using [markdown](https://guides.github.com/features/mastering-markdown/) and linking to the specific exercise pages, below is an example.
+Let's get started with the exercises! As we will focus on bilding an extension case for an SAP application via Kyma runtime, you will start by simulating an application to be connected to your SAP Cloud Platform Global Account and pair it with Kyma runtime. Then you will continue step-by-step to deploy a microservice, bind it to an event, and deploy a UI to the extension. Lastly, we will show you how to make use of other SAP Cloud Platform services within Kyma runtime.
+* [Deploy the Commerce Mock Application in the Kyma Runtime](https://developers.sap.com/tutorials/cp-kyma-mocks.html)
+* 
 
-- [Getting Started](exercises/ex0/)
-- [Exercise 1 - First Exercise Description](exercises/ex1/)
-    - [Exercise 1.1 - Exercise 1 Sub Exercise 1 Description](exercises/ex1#exercise-11-sub-exercise-1-description)
-    - [Exercise 1.2 - Exercise 1 Sub Exercise 2 Description](exercises/ex1#exercise-12-sub-exercise-2-description)
-- [Exercise 2 - Second Exercise Description](exercises/ex2/)
-    - [Exercise 2.1 - Exercise 2 Sub Exercise 1 Description](exercises/ex2#exercise-21-sub-exercise-1-description)
-    - [Exercise 2.2 - Exercise 2 Sub Exercise 2 Description](exercises/ex2#exercise-22-sub-exercise-2-description)
-
-
-**OR** Link to the PDF document stored in your github repo for example...
-
-Start the exercises [here](exercises/myPDFDoc.pdf).
-    
-**OR** Link to the Tutorial Navigator for example...
-
-Start the exercises [here](https://developers.sap.com/tutorials/abap-environment-trial-onboarding.html).
-
-**IMPORTANT**
-
-Your repo must contain the LICENSE and NOTICE files as well as the sections below.  DO NOT REMOVE these sections or files. Also, remove all unused template assets(images, folders, etc) from the exercises folder. 
 
 ## How to obtain support
 
