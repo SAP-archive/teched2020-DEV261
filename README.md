@@ -22,17 +22,21 @@ The requirements to follow the exercises in this repository are:
 To make full use of this hands-on session, the following tools shoud be ready as well:
 - [ ] [Docker](https://www.docker.com/) installed with a valid public account
 - [ ] [GIT](https://git-scm.com/downloads) installed
-- [ ] 
+- [ ] [Golang](https://golang.org/doc/install) installed
 
-**Questions**
-- [ ] Can we provide images to the Docker et al if people don't have Docker installed?
-- [ ] Should we rather go via [this sample](https://github.com/SAP-samples/kyma-runtime-extension-samples/blob/master/sample-event-trigger-java/README.md) instead of the tutorials as they are more complex than suitable for the 90 minutes?
+If you can't install the above tools, we can show you how to follow the tutorial via the Kyma runtime console UI. Though you can complete each step, you will miss to learn how to make use of Kyma runtime. 
 
 ## Exercises
 
 Let's get started with the exercises! As we will focus on bilding an extension case for an SAP application via Kyma runtime, you will start by simulating an application to be connected to your SAP Cloud Platform Global Account and pair it with Kyma runtime. Then you will continue step-by-step to deploy a microservice, bind it to an event, and deploy a UI to the extension. Lastly, we will show you how to make use of other SAP Cloud Platform services within Kyma runtime.
+
+1. [Deploying MSSQL in the Kyma Runtime](https://developers.sap.com/tutorials/cp-kyma-mssql-deployment.html)
+1. [Deploying a Go MSSQL API Endpoint in the Kyma Runtime](https://developers.sap.com/tutorials/cp-kyma-api-mssql-golang.html)
+1. [Deploying a UI5 frontend](https://developers-qa.sap.com/tutorials/cp-kyma-frontend-ui5-mocks.html)
+
+### Bonus tutorials: add eventing to the exercise
 * [Deploy the Commerce Mock Application in the Kyma Runtime](https://developers.sap.com/tutorials/cp-kyma-mocks.html)
-* 
+* [Triggering a Mircoservice with an Event](https://developers-qa.sap.com/tutorials/cp-kyma-microservice-trigger.html)
 
 
 ## How to obtain support
