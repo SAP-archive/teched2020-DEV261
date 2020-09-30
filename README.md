@@ -23,6 +23,8 @@ The requirements to follow the exercises in this repository are:
 - [ ] [Docker](https://www.docker.com/) installed with a valid public account
 - [ ] [GIT](https://git-scm.com/downloads) installed
 - [ ] [Golang](https://golang.org/doc/install) installed
+- [ ] [Node.js](https://nodejs.org/en/download/) installed
+- [ ] [UI5 Tooling](https://sap.github.io/ui5-tooling/) installed
 
 If you can't install the above tools, we can show you how to follow the tutorial via the Kyma runtime console UI. Though you can complete each step, you will miss to learn how to make use of Kyma runtime. 
 
@@ -32,7 +34,7 @@ Let's get started with the exercises! We will show you how to create a Docker co
 
 1. [Deploying MSSQL in the Kyma Runtime](https://developers.sap.com/tutorials/cp-kyma-mssql-deployment.html)
 1. [Deploying a Go MSSQL API Endpoint in the Kyma Runtime](https://developers.sap.com/tutorials/cp-kyma-api-mssql-golang.html)
-1. [Deploying a UI5 frontend](https://developers-qa.sap.com/tutorials/cp-kyma-frontend-ui5-mocks.html)
+1. [Deploying a SAPUI5 frontend in the Kyma Runtime](https://developers.sap.com/tutorials/cp-kyma-frontend-ui5-mssql.html)
 
 ### Bonus tutorials: add eventing to the exercise
 * [Deploy the Commerce Mock Application in the Kyma Runtime](https://developers.sap.com/tutorials/cp-kyma-mocks.html)
