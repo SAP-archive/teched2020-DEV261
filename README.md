@@ -36,7 +36,7 @@ Let's get started with the exercises! We will show you how to create a Docker co
 
 ### Bonus tutorials: add eventing to the exercise
 * [Deploy the Commerce Mock Application in the Kyma Runtime](https://developers.sap.com/tutorials/cp-kyma-mocks.html)
-* [Triggering a Mircoservice with an Event](https://developers-qa.sap.com/tutorials/cp-kyma-microservice-trigger.html)
+* [Triggering a Mircoservice with an Event](https://developers.sap.com/tutorials/cp-kyma-microservice-trigger.html)
 
 
 ## How to obtain support
