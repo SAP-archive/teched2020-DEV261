@@ -16,10 +16,10 @@ This session introduces attendees to using the "SAP Cloud Platfor, Kyma runtime"
 ## Requirements
 
 The requirements to follow the exercises in this repository are:
-- [ ] Have a Kyma runtime deployed in your SAP Cloud Platform account ([trial](http://a.com) or CPEA-based [account](https://blogs.sap.com/2020/05/13/sap-cloud-platform-extension-factory-kyma-runtime-how-to-get-started/)). **This will take 1-2 hours to complete!**
-- [ ] Have `kubectl`installed on your local machine following [this tutorial](http://a.com)
+- [ ] Have a Kyma runtime deployed in your SAP Cloud Platform ([trial](https://help.sap.com/viewer/65de2977205c403bbc107264b8eccf4b/Cloud/en-US/ccb83c700e8d4bb8aa545d7307b8b08a.html) account or CPEA-based [account](https://blogs.sap.com/2020/05/13/sap-cloud-platform-extension-factory-kyma-runtime-how-to-get-started/)). **This will take 1-2 hours to complete!**
+- [ ] Have `kubectl`installed on your local machine following [this tutorial](https://developers.sap.com/tutorials/cp-kyma-download-cli.html)
 
-To make full use of this hands-on session, the following tools shoud be ready as well:
+**To make full use of this hands-on session**, the following tools shoud be ready as well:
 - [ ] [Docker](https://www.docker.com/) installed with a valid public account
 - [ ] [GIT](https://git-scm.com/downloads) installed
 - [ ] [Golang](https://golang.org/doc/install) installed
@@ -28,7 +28,7 @@ If you can't install the above tools, we can show you how to follow the tutorial
 
 ## Exercises
 
-Let's get started with the exercises! As we will focus on bilding an extension case for an SAP application via Kyma runtime, you will start by simulating an application to be connected to your SAP Cloud Platform Global Account and pair it with Kyma runtime. Then you will continue step-by-step to deploy a microservice, bind it to an event, and deploy a UI to the extension. Lastly, we will show you how to make use of other SAP Cloud Platform services within Kyma runtime.
+Let's get started with the exercises! We will show you how to create a Docker container, deploy it to Kyma runtime, making it accessile, and adding a UI to it. If you are fast enough, you can as well continue by adding an event trigger to the just-deployed app.
 
 1. [Deploying MSSQL in the Kyma Runtime](https://developers.sap.com/tutorials/cp-kyma-mssql-deployment.html)
 1. [Deploying a Go MSSQL API Endpoint in the Kyma Runtime](https://developers.sap.com/tutorials/cp-kyma-api-mssql-golang.html)
