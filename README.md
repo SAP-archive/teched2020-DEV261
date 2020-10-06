@@ -24,9 +24,11 @@ The requirements to follow the exercises in this repository are:
 **To make full use of this hands-on session**, the following tools shoud be ready as well:
 - [ ] [Docker](https://www.docker.com/) installed with a valid public account
 - [ ] [GIT](https://git-scm.com/downloads) installed
-- [ ] [Golang](https://golang.org/doc/install) installed
+- [ ] [Go](https://golang.org/doc/install) installed
 - [ ] [Node.js](https://nodejs.org/en/download/) installed
 - [ ] [UI5 Tooling](https://sap.github.io/ui5-tooling/) installed
+
+*MD add minimum versions*
 
 If you can't install the above tools, we can show you how to follow the tutorial via the Kyma runtime console UI. Though you can complete each step, you will miss to learn how to make use of Kyma runtime. 
 
