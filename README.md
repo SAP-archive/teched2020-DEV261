@@ -4,6 +4,8 @@
 
 This repository contains the material for the SAP TechEd 2020 session called DEV261 - Build Cloud-Native Extensions for SAP Solutions Based on Kubernetes. 
 
+In May 2020, SAP launched "SAP Cloud Platform, Kyma runtime", a Kubernetes-based runtime created with open-source project Kyma to easily build cloud-native extensions for the Intelligent Enterprise. Try it out yourself and use microservices combined with serverless functions to extend the Intelligent Enterprise. Furthermore, consume capabilities offered by SAP Cloud Platform and integrate them easily into the extension scenario.
+
 ## Overview
 
 This session introduces attendees to using the "SAP Cloud Platfor, Kyma runtime" which is the cloud-native runtime part of SAP Cloud Platform. It makes it easy for developers to get started deploying highly scalable workloads containerized in Docker by providing a set of tools within Kyma runtime:
@@ -30,15 +32,15 @@ If you can't install the above tools, we can show you how to follow the tutorial
 
 ## Exercises
 
-Let's get started with the exercises! We will show you how to create a Docker container, deploy it to Kyma runtime, making it accessile, and adding a UI to it. If you are fast enough, you can as well continue by adding an event trigger to the just-deployed app.
+Let's get started with the exercises! We will show you how to create a Docker container, deploy it to Kyma runtime, making it accessile, and adding a UI to it. If there is enough time, you can as well continue by adding an event trigger to the just-deployed app. This will be possible as well after this session has ended.
 
 1. [Deploying MSSQL in the Kyma Runtime](https://developers.sap.com/tutorials/cp-kyma-mssql-deployment.html)
 1. [Deploying a Go MSSQL API Endpoint in the Kyma Runtime](https://developers.sap.com/tutorials/cp-kyma-api-mssql-golang.html)
 1. [Deploying a SAPUI5 frontend in the Kyma Runtime](https://developers.sap.com/tutorials/cp-kyma-frontend-ui5-mssql.html)
 
 ### Bonus tutorials: add eventing to the exercise
-* [Deploy the Commerce Mock Application in the Kyma Runtime](https://developers.sap.com/tutorials/cp-kyma-mocks.html)
-* [Triggering a Mircoservice with an Event](https://developers.sap.com/tutorials/cp-kyma-microservice-trigger.html)
+4. [Deploy the Commerce Mock Application in the Kyma Runtime](https://developers.sap.com/tutorials/cp-kyma-mocks.html)
+5. [Triggering a Mircoservice with an Event](https://developers.sap.com/tutorials/cp-kyma-microservice-trigger.html)
 
 
 ## How to obtain support
