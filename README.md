@@ -8,7 +8,7 @@ In May 2020, SAP launched "SAP Cloud Platform, Kyma runtime", a Kubernetes-based
 
 ## Overview
 
-This session introduces attendees to using the "SAP Cloud Platfor, Kyma runtime" which is the cloud-native runtime part of SAP Cloud Platform. It makes it easy for developers to get started deploying highly scalable workloads containerized in Docker by providing a set of tools within Kyma runtime:
+This session introduces attendees to using the "SAP Cloud Platform, Kyma runtime" which is the cloud-native runtime part of SAP Cloud Platform. It makes it easy for developers to get started deploying highly scalable workloads containerized in Docker by providing a set of tools within Kyma runtime:
 * **Built-in Service Mesh:** Service-to-service communication and proxying 
 * **Built-in Serverless engine:** Build lightweight use cases with serverless functions
 * **Event Hub:** React to applications’ business events
