@@ -19,16 +19,14 @@ This session introduces attendees to using the "SAP Cloud Platform, Kyma runtime
 
 The requirements to follow the exercises in this repository are:
 - [ ] Have a Kyma runtime deployed in your SAP Cloud Platform ([trial](https://help.sap.com/viewer/65de2977205c403bbc107264b8eccf4b/Cloud/en-US/ccb83c700e8d4bb8aa545d7307b8b08a.html) account or CPEA-based [account](https://blogs.sap.com/2020/05/13/sap-cloud-platform-extension-factory-kyma-runtime-how-to-get-started/)). **This will take 1-2 hours to complete!**
-- [ ] Have `kubectl`installed on your local machine following [this tutorial](https://developers.sap.com/tutorials/cp-kyma-download-cli.html)
+- [ ] Have `kubectl` (version 1.17 and newer) installed on your local machine following [this tutorial](https://developers.sap.com/tutorials/cp-kyma-download-cli.html)
 
 **To make full use of this hands-on session**, the following tools shoud be ready as well:
 - [ ] [Docker](https://www.docker.com/) installed with a valid public account
-- [ ] [GIT](https://git-scm.com/downloads) installed
-- [ ] [Go](https://golang.org/doc/install) installed
-- [ ] [Node.js](https://nodejs.org/en/download/) installed
-- [ ] [UI5 Tooling](https://sap.github.io/ui5-tooling/) installed
-
-*MD add minimum versions*
+- [ ] [GIT](https://git-scm.com/downloads) (version 2.24 and newer) installed
+- [ ] [Go](https://golang.org/doc/install) language (1.15 and newer) installed
+- [ ] [Node.js](https://nodejs.org/en/download/) (version 12.18 and newer) installed
+- [ ] [UI5 Tooling](https://sap.github.io/ui5-tooling/) (version 2.4.4 and newer) installed
 
 If you can't install the above tools, we can show you how to follow the tutorial via the Kyma runtime console UI. Though you can complete each step, you will miss to learn how to make use of Kyma runtime. 
 
