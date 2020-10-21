@@ -2,7 +2,7 @@
 
 ## Description
 
-This repository contains the material for the SAP TechEd 2020 session called DEV261 - Build Cloud-Native Extensions for SAP Solutions Based on Kubernetes. 
+This repository contains the material for the SAP TechEd 2020 session called DEV261 - Build Cloud-Native Extensions for SAP Solutions Based on Kubernetes. Here are the [slides used in the beginning presentation](https://github.com/SAP-samples/teched2020-DEV261/blob/master/DEV261_PPT.pdf).
 
 In May 2020, SAP launched "SAP Cloud Platform, Kyma runtime", a Kubernetes-based runtime created with open-source project Kyma to easily build cloud-native extensions for the Intelligent Enterprise. Try it out yourself and use microservices combined with serverless functions to extend the Intelligent Enterprise. Furthermore, consume capabilities offered by SAP Cloud Platform and integrate them easily into the extension scenario.
 
