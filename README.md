@@ -1,5 +1,7 @@
 # DEV261 - Build Cloud-Native Extensions for SAP Solutions Based on Kubernetes
 
+[![REUSE status](https://api.reuse.software/badge/github.com/SAP-samples/teched2020-DEV261)](https://api.reuse.software/info/github.com/SAP-samples/teched2020-DEV261)
+
 ## Description
 
 This repository contains the material for the SAP TechEd 2020 session called DEV261 - Build Cloud-Native Extensions for SAP Solutions Based on Kubernetes. Here are the [slides used in the beginning presentation](https://github.com/SAP-samples/teched2020-DEV261/blob/master/DEV261_PPT.pdf).
